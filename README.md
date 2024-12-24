@@ -5,7 +5,7 @@ A modern, responsive URL shortener web application with smooth animations and a 
 
 ## 🚀 Live Demo
 
-Check out the live demo: [URL Shortener](https://url-shortener-akshayyborse.vercel.app)
+Check out the live demo: [URL Shortener](https://urlshortner-akshay.vercel.app/)
 
 ## ✨ Features
 
